@@ -8,4 +8,9 @@ public class prueba
     {
         System.out.println("PRUEBA 1");
     }
+    
+    public void prueba2()
+    {
+        System.out.println("PRUEBA 2");
+    }
 }

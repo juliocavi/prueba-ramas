@@ -3,4 +3,6 @@ comment0.target=prueba
 comment0.text=\r\n\ ESTO\ ES\ UNA\ PRUEBA\ PARA\ LAS\ RAMAS\r\n
 comment1.params=
 comment1.target=void\ prueba()
-numComments=2
+comment2.params=
+comment2.target=void\ prueba2()
+numComments=3
